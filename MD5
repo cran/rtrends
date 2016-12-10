@@ -1,0 +1,11 @@
+39313de52d2c0aa901e4ba81b08d6648 *DESCRIPTION
+1ea8a04b0b572219b33dbe8a7b0c3cfb *NAMESPACE
+0ad3d8a19c9e76ffab1ba00b2e9610f8 *R/rtrends.r
+58d3a84af44c7b136b315c0d8601169a *data/countries.rda
+0eacd3011f0b517004f77b7bfb784e61 *data/sample_log.rda
+1b86fd523ada1eff2b9da4228a0daf14 *man/countries.Rd
+38d1c15e357e80b98bfb63ef1be8b670 *man/cran_stats_by_day.Rd
+0260e0a82f8f2a6bd017e87c75529dd3 *man/cran_stats_by_package.Rd
+31dbcd6091ed7cbd8a29ea237baf1d8e *man/cran_stats_by_packages.Rd
+363f4c5f673f868bb8fb436da82bab66 *man/cran_summary.Rd
+b38c4593b2d172c20109b7eb364c8dce *man/sample_log.Rd
